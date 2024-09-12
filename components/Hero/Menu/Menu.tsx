@@ -58,7 +58,7 @@ export default function Menu() {
                 width={25}
                 height={25}
               />
-              <div className="text-lg font-semibold text-white">0xAquaWolf</div>
+              <div className="text-lg font-semibold text-white">DUGGAL</div>
             </Link>
           </div>
           <div className="flex lg:hidden">
@@ -92,7 +92,7 @@ export default function Menu() {
           <div className="hidden gap-4 lg:flex lg:flex-1 lg:justify-end">
             <a
               href="#"
-              className="rounded-full bg-white px-4 py-2 text-black shadow-cta transition-all hover:bg-transparent hover:text-white hover:shadow-alt-cta"
+             className="bg-white rounded-full px-6 py-3 xl:px-8 xl:py-4 text-black font-semibold hover:bg-gradient-to-r from-fuchsia-500 to-purple-600 hover:text-white transition-all xl:text-lg shadow-cta hover:shadow-2xl hover:scale-105 transform-gpu duration-200"
             >
               Hire Me
             </a>
@@ -123,7 +123,7 @@ export default function Menu() {
                       height={25}
                     />
                     <div className="text-lg font-semibold text-white">
-                      0xAquaWolf
+                      DUGGAL
                     </div>
                   </div>
                 </a>

@@ -14,10 +14,10 @@ export default function Letter() {
         {/* Letter Top */}
         <div className="bg-letter-top shadow-letter-top relative z-30 -rotate-1 rounded-lg lg:rotate-2 lg:rounded-xl">
           <article className="space-y-4 p-4 text-base text-white/80 lg:space-y-5 lg:p-5 lg:px-24 lg:py-14 lg:text-2xl">
-            <p>Hey everyone 👋</p>
-            <p>I&apos;m AquaWolf, and I&apos;ve been on quite a journey.</p>
+            <p>Hey everyone , WADDUP👋</p>
+            <p>I&apos;m DUGGAL, and I&apos;ve been on quite a journey.</p>
             <p>
-              I&apos;ve been coding since 2016, and let me tell you, it&apos;s
+              I&apos;ve been coding since 2014, and let me tell you, it&apos;s
               been a wild ride. Coding gets a bad rap sometimes, but it
               shouldn&apos;t. To me, coding has always been a treasure.
             </p>
@@ -100,18 +100,19 @@ export default function Letter() {
               </div>
             </div>
             <div className="font-handwriting mb-10 text-4xl lg:text-6xl">
-              <div className="text-white">AquaWolf</div>
+              <div className="text-white">DUGGAL</div>
             </div>
             <div className="flex items-center gap-2">
               <div>
-                <Image src={AquaWolfPFP} alt="AquaWolf PFP" />
+                <Image src={AquaWolfPFP} alt="DUGGAL PFP" />
               </div>
               <div className="lg:ml-4">
                 <div className="text-xl font-semibold text-white lg:text-2xl">
-                  0xAquawolf
+                  DUGGAL⚡️
                 </div>
                 <div className="text-[12px] lg:text-lg">
-                  Senior Full-Stack Software Engineer
+                  Senior Full-Stack Software developer And
+                  Machine learning engineer
                 </div>
               </div>
             </div>

@@ -34,7 +34,7 @@ export default function BlogCard({ blog }: BlogCardProps) {
               className="rounded-2xl"
             />
             <div className="flex flex-col">
-              <p className="text-sm text-white">0xAquaWolf</p>
+              <p className="text-sm text-white">DUGGAL</p>
               <p className="text-sm text-gray-300">8 min read</p>
             </div>
           </div>

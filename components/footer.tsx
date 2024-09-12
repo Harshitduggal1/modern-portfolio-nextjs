@@ -38,7 +38,7 @@ export function Footer() {
         <div className="mt-10">
           <div className="flex flex-wrap justify-center gap-6">
             <a
-              href="https://twitter.com/0xAquaWolf"
+              href="https://x.com/harshitduggal5"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -51,7 +51,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://www.youtube.com/@0xAquaWolf"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -64,7 +64,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://github.com/0xAquaWolf"
+              href="https://github.com/harshitduggal1"
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -77,7 +77,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://www.instagram.com/_0xAquaWolf"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -90,7 +90,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://www.tiktok.com/@0xAquaWolf"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -103,7 +103,7 @@ export function Footer() {
               />
             </a>
             <a
-              href="https://www.linkedin.com/in/0xAquaWolf"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="grid items-center"
@@ -119,7 +119,8 @@ export function Footer() {
         </div>
 
         <p className="mt-8 text-center text-sm">
-          © {currentYear} AquaWolf Labs, All rights reserved
+          © {currentYear} Duggal labs limted.
+           All rights reserved
         </p>
       </div>
     </footer>
