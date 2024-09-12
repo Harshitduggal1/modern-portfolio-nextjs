@@ -54,7 +54,7 @@ GITHUB_ACCESS_TOKEN=""
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/0xAquaWolf/portfolio.git
+   git clone https://github.com/Harshitduggal1/modern-portfolio-nextjs
    ```
 2. Install packages
    ```sh
@@ -132,75 +132,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the GPL License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-Twitter / x - [@0xAquaWolf](https://twitter.com/0xAquaWolf)
-
-[Aquawolf Academy Discord](https://discord.gg/wzPBjEcn87)
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Shadcn UI](https://ui.shadcn.com/)
-- [Aceternity UI](https://ui.aceternity.com/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [Bun Documentation](https://bun.sh/docs)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[forks-shield]: https://img.shields.io/github/forks/0xAquaWolf/your-portfolio-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/0xAquaWolf/your-portfolio-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/0xAquaWolf/your-portfolio-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/0xAquaWolf/your-portfolio-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/0xAquaWolf/your-portfolio-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/0xAquaWolf/your-portfolio-repo/issues
-[license-shield]: https://img.shields.io/github/license/0xAquaWolf/your-portfolio-repo.svg?style=for-the-badge
-[license-url]: https://github.com/0xAquaWolf/your-portfolio-repo/blob/master/LICENSE.txt
-[product-screenshot]: /public/images/png/portfolio-preview.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: https://www.typescriptlang.org/
-[Tailwind CSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
-[Shadcn UI]: https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white
-[Shadcn-url]: https://ui.shadcn.com/
-[Aceternity UI]: https://img.shields.io/badge/Aceternity_UI-FF4785?style=for-the-badge&logo=storybook&logoColor=white
-[Aceternity-url]: https://ui.aceternity.com/
-[Bun]: https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white
-[Bun-url]: https://bun.sh/
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Node-url]: https://nodejs.org/
-
-## Star History
-
-<a href="https://star-history.com/#0xAquaWolf/portfolio&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date" />
- </picture>
-</a>
 
 ## Farewell
 
